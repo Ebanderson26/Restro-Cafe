@@ -11,9 +11,9 @@ This is an online food menu service for Restore Cafe. When you visit the restaur
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://chichi-restro-cafe-sd-front.chichiforex.repl.co) here!!
+Check out [FRONTEND LIVE DEMO](https://Restro-Cafe-Frontend.ebanderson26.repl.co) here!!
 
-Check out [API LIVE DEMO](https://chichi-restro-cafe-sd-back.chichiforex.repl.co) here!!
+Check out [API LIVE DEMO](https://Restro-cafe-backend.ebanderson26.repl.co) here!!
 
 ## Tech used
 
@@ -27,7 +27,7 @@ Check out [API LIVE DEMO](https://chichi-restro-cafe-sd-back.chichiforex.repl.co
 1. Git Clone
 
 ```
-git clone https://github.com/Ermiyas-M-Negeri/restro-cafe.git
+git clone #link
 ```
 
 2. Backend setting
